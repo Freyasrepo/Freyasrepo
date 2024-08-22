@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Freyasrepo/Freyasrepo** 
 
 This repo contains some of my homework in my master program. I am not sure the corectness of them but I've tried to answer.
@@ -13,4 +13,4 @@ This repo contains some of my homework in my master program. I am not sure the c
 - 📫 How to reach me: Jinghua.Wu@colorado.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
